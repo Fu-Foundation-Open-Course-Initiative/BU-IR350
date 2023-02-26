@@ -12,7 +12,7 @@ The packet also includes detailed information about significant events and perio
 
 Throughout the review packet, students will find key terms, definitions, and summaries of important concepts and events. There are also study tips and practice questions to help students assess their knowledge and test-taking skills.
 
-**Notice**:
+**Notice:**
 - This review packet is not intended to be a substitute for the course textbook or lectures. It is meant to supplement the course materials and provide students with additional resources to help them prepare for the midterm exam.
 - Since we are still developing this review packet, it is not yet complete and it will only be in the format of Notion Shared Web Page for now. As we continue to add more content, we will also be adding more formats, such as PDF and Google Docs.
 
